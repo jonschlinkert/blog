@@ -8,7 +8,7 @@ title:               Blog
 tagline:             Jon Schlinkert's Blog
 description:         'Blog. Made by <a href="https://twitter.com/jonschlinkert" target="_blank">@jonschlinkert</a>.'
 url:                 https://jonschlinkert.github.io/blog/
-baseurl:             ''
+baseurl:             blog
 paginate:            5
 
 # About/contact
