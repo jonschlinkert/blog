@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Blog
 tagline:             Jon Schlinkert's Blog
 description:         'Blog. Made by <a href="https://twitter.com/jonschlinkert" target="_blank">@jonschlinkert</a>.'
-url:                 https://jonschlinkert.com
-baseurl:             /blog
+url:                 https://jonschlinkert.dev
+baseurl:             /
 paginate:            5
 
 # About/contact
