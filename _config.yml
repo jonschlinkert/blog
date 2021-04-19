@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Blog
 tagline:             Jon Schlinkert's Blog
-description:         'Blog. Made by <a href="https://twitter.com/jonschlinkert" target="_blank">@jonschlinkert</a>.'
+description:         'Blog. Made by <a href="https://github.com/jonschlinkert" target="_blank">@jonschlinkert</a>.'
 url:                 https://jonschlinkert.dev
 baseurl:             /
 paginate:            5
@@ -14,7 +14,7 @@ paginate:            5
 # About/contact
 author:
   name:              Jon Schlinkert
-  url:               https://twitter.com/jonschlinkert
+  url:               https://github.com/jonschlinkert
   email:             jon.schlinkert@sellside.com
 
 # Custom vars
