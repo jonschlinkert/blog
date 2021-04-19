@@ -3,9 +3,7 @@ layout: page
 title: Sponsor
 ---
 
-# Sponsor
-
-Hi, I'm Jon! I'm a full-time open source software developer and single dad.
+**Hi, I'm Jon! I'm a full-time open source software developer and single dad.**
 
 Several years ago I switched careers from sales, marketing and consulting to learn how to program, with the goal of making the world a better place through code. Whether that means giving people access to information, the tools and technology to level the playing field with big corporations, or empowering people in impoverished regions to participate in the world economy.
 
